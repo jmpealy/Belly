@@ -8,6 +8,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Demographics information is dynamically populated based upon a user-selected test subject ID. A bar chart, bubble chart and a bonus gauge chart also update once the ID is changed. Code has been written using Plotly, JavaScript, HTML, and D3.js.
 
+You can visit the app on GitHub pages using the following link:
+
+https://jmpealy.github.io/Belly-Button-Challenge/
+
 ![Dashboard overview](https://github.com/jmpealy/belly-button-challenge/assets/128240129/9291317f-93a6-44c1-98ce-fee1874ee925)
 
 **Dashboard Features**
